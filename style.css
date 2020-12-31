@@ -57,7 +57,7 @@ h1 {
   box-shadow: 0 0 15px black, 0 0 10px blue, 0 0 12px 5px lightblue;
 }
 
-@media (min-height: 600px;){
+@media (max-height: 600px;){
   body {
   /* background-color: #333333; */
   background-image: url(https://happynewyear2021.net/wp-content/uploads/2020/10/new-year-2021-wallpaper-768x494-2.jpg);
