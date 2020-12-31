@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  /* background-color: #333333; */
+  background-image: url(https://happynewyear2021.net/wp-content/uploads/2020/10/new-year-2021-wallpaper-768x494-2.jpg);
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+  background-position: center center;
+  align-items: center;
+  /* justify-content: center; */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  color: white;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-top: 5rem;
+  font-weight: normal;
+  text-align: center;
+}
+
+.countdown-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.big-text {
+  font-weight: bold;
+  font-size: 6rem;
+  line-height: 1;
+  margin: 1rem 2rem;
+  box-shadow: 0 0 15px #333, 0 0 25px #fff, 0 0 30px #333;
+  padding: 1rem;
+  border-radius: 30%;
+}
+
+.countdown-e1 {
+  text-align: center;
+}
+
+.countdown-e1 span {
+  font-size: 1.3rem;
+}
+
+.kotak {
+  margin-top: 40px;
+  padding: -20px 10px 20px 10px;
+  background-color: rgba(82, 71, 71, 0.247);
+  box-shadow: 0 0 15px black, 0 0 10px blue, 0 0 12px 5px lightblue;
+}
