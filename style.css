@@ -57,7 +57,7 @@ h1 {
   box-shadow: 0 0 15px black, 0 0 10px blue, 0 0 12px 5px lightblue;
 }
 
-@media (max-height: 700px;){
+@media (min-height: 600px;){
   body {
   /* background-color: #333333; */
   background-image: url(https://happynewyear2021.net/wp-content/uploads/2020/10/new-year-2021-wallpaper-768x494-2.jpg);
@@ -88,7 +88,7 @@ h1 {
 
 .big-text {
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 1rem;
   line-height: 1;
   margin: 1rem 1rem;
   box-shadow: 0 0 15px #333, 0 0 25px #fff, 0 0 30px #333;
@@ -106,7 +106,7 @@ h1 {
 
 .kotak {
   margin-top: 5px;
-  padding: 10px;
+  padding: 5px;
   background-color: rgba(82, 71, 71, 0.247);
   box-shadow: 0 0 15px black, 0 0 10px blue, 0 0 12px 5px lightblue;
 }
