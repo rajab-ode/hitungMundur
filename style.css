@@ -6,7 +6,8 @@
 
 body {
   /* background-color: #333333; */
-  background-image: url(https://happynewyear2021.net/wp-content/uploads/2020/10/new-year-2021-wallpaper-768x494-2.jpg);
+/*   background-image: url(https://happynewyear2021.net/wp-content/uploads/2020/10/new-year-2021-wallpaper-768x494-2.jpg); */
+  background-color: lightblue;
   background-size: cover;
   font-family: 'Poppins', sans-serif;
   background-position: center center;
